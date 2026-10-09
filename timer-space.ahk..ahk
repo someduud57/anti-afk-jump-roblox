@@ -67,7 +67,3 @@ return
 GuiClose:
 ExitApp
 return
-
-GuiClose:
-ExitApp
-return
